@@ -4,11 +4,14 @@
 // The array which should be added must be under ()
 
 
-et arr = ["one", "two", ]
+let arr = ["one", "two", ]
 let arr2 = ["three","four"]
 
 
 
-console.log(arr.concat(arr2));
+ let result = arr.concat(arr2);
 
 
+ console.log(result);
+
+// The above code is the simple example of concat. 
