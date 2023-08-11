@@ -1,20 +1,33 @@
-let arr = [2,4,6,8,10,13]
-let check = arr.every((x) => {
+// JAVASCRIPT EVERY METHOD
+
+// In this method the input is given and check does it exsist in the array.
+
+// every method checks the entire array if any one soesn't match the input it will be false . If the entire arrAY MATCHES THEN THE output will be true. 
 
 
-    return x%2 === 0;
+
+// let arr = [2,4,6,8,10]
+// let check = arr.every((x) => {
 
 
-})
+//     return x%2 === 0;
+
+
+// })
+
+// console.log(check);
 
 // console.log(check);
 //  Here in code x is the parameter. 
 // every methods returns the output value in Boolean Values. 
 
-let fruits = ["Apple", "Mango", "Grapes", "Water", "Kiwi"]
+let fruits = ["Kiwi", "Kiwi","Kiwi"]
+ 
+ let result = fruits.every((x)=>{
 
-let store = fruits.every((x)=>{
-    x=== "kiwi"
-})
+    return x === "Kiwi"
+ })
 
-console.log(store);
+
+
+console.log(result);
