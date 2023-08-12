@@ -2,8 +2,7 @@
 
 let arr = ["Apple", "banana", "mango", "grapes"]
 
-let result = arr.values((x)=>{
-    console.log(x);
-})
+let result = arr.values
 
 console.log(result);
+    
