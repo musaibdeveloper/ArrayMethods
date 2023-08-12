@@ -1,3 +1,8 @@
+// This method creates a new array with
+// all elements that pass the test implemented by
+// the provided function.
+
+
 const languages = [
   "JavaScript",
   "Python",
@@ -13,7 +18,7 @@ const languages = [
 
  let store = languages.filter((x)=>{
 
-     return x == "C"
+     return x == "Java"
 
 })
 

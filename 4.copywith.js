@@ -15,7 +15,7 @@ let arr = ["one", "two","three","four", "five" ,"six"]
                         //  target  start    end
 
 
-                        // two parameters are woking the firt is the target and the second is to copy and 
+                        // two parameters are working the firt is the target and the second is to copy and 
                         // over write on target. 
 
 

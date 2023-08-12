@@ -10,6 +10,6 @@ let arr = ["one" , "two", "three"]
 
  
 
- let store =  arr.at(3);
+ let store =  arr.at(2);
 
  console.log(store);

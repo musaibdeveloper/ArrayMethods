@@ -4,12 +4,12 @@
 // The array which should be added must be under ()
 
 
-let arr = ["one", "two", ]
+let arr1 = ["one", "two", ]
 let arr2 = ["three","four"]
 
 
 
- let result = arr.concat(arr2);
+ let result = arr1.concat(arr2);
 
 
  console.log(result);
