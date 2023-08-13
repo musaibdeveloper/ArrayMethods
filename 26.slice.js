@@ -10,7 +10,7 @@
 
 const numbers=[1,2,3,4,5,10];
 
-console.log(numbers.slice(0 , 6))
+console.log(numbers.slice(2 , 5 )) // [3,4,5]
 
 
 let languages = ["JavaScript", "Python", "C", "C++", "Java"];
