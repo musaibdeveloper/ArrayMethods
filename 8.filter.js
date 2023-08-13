@@ -2,6 +2,8 @@
 // all elements that pass the test implemented by
 // the provided function.
 
+// it returns the array, with the element which is passed by the function.
+
 
 const languages = [
   "JavaScript",
