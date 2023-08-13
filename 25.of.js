@@ -3,7 +3,7 @@
 // The of() method creates a new Array instance from the given arguments.
 
 
-const arr = [12,5,9,6,4,59,]
+const arr = [12,5,9,6,4,59]
 
 console.log(arr);
 
@@ -13,8 +13,11 @@ console.log(arr);
 
 const arr1 = Array.of(1,2,3,4,56,7,8,9)
 
-console.log(arr1);
+console.log(arr1); // [1,2,3,4,56,7,8,9]
+
 
 
 let data = Array.of("Hello", "Java", "C", "C++");
 console.log(data);
+
+// [Hello", "Java", "C", "C++"]
