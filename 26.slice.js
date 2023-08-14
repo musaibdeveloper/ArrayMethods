@@ -3,10 +3,8 @@
 // Slice cuts the array and give a new array. 
 // It take few parametes to operate 
 
-// start (optional) - Starting index of the selection. If not provided, the selection starts at start 0.
-// end (optional) - Ending index of the selection (exclusive). If not provided,
-//  the selection ends at the index of the last element.
-
+// Start parameters is from 0
+// End parameter is from 1.
 
 const numbers=[1,2,3,4,5,10];
 
