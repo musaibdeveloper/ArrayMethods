@@ -9,4 +9,6 @@ const result = numbers.map((numbers) => {
 
 console.log(result);
 
-// Map function takes the call function and execute every single element of array.
+// Map function takes the call function and execute every single element of array. and gives the new array .
+
+//
