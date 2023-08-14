@@ -6,6 +6,9 @@
 
 // The copyWithin() method does not add items to the array.
 
+// start from 0 
+// End from 1 
+
 
 
 let arr = ["one", "two","three","four", "five" ,"six"]
@@ -23,4 +26,4 @@ let arr = ["one", "two","three","four", "five" ,"six"]
 
  let result = arr.copyWithin(1 ,      2  ,   3 )
 
- console.log(result);
+ console.log(result); // [one , three , three , four , five , six]
