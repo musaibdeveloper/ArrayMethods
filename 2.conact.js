@@ -12,6 +12,6 @@ let arr2 = ["three","four"]
  let result = arr1.concat(arr2);
 
 
- console.log(result);
+ console.log(result); // ["one" , "two" , "three" , "four"]
 
 // The above code is the simple example of concat. 
