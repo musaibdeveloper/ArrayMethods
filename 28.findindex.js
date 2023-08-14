@@ -9,7 +9,7 @@ console.log(numbers.findIndex((x) => x % 2 == 0)); // 0
 
 // The above condition is satisfied so, it returs the 0 
 
-let numbers = [9,13,17,19]
+let numberss = [9,13,17,19]
 
 console.log(numbers.findIndex((x) => x % 2 == 0)); // -1
 
