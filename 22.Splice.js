@@ -26,6 +26,6 @@ names.splice        (1,                                        2,               
 
 
 
-console.log(names);
+console.log(names); // ['musaib" , "naveed", "muqeem"]
 
 
