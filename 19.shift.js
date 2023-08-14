@@ -9,4 +9,4 @@ let remove = fruits.shift();
 
 console.log(remove);
 
-// Output Apple. 
+// Output whic comes is Apple. 
