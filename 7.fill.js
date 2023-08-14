@@ -4,6 +4,9 @@
 // the value to fill with, the start index, and the
 // end index.
 
+// Start from 0 
+// End parameter start from 1.
+
 
 let fruits = ["Apple", "mango", "water","grapes", "kiwi","anything"]
                 // 0      1        2       3         4       5
