@@ -1,10 +1,10 @@
 // The map method returns a new array by applying 
 // the callback function on each element of an array
 
-let numbers = [1,2,3,4,5,6]
+let numbers = ["Musaib", "Shoail", "ANy=yone"]
 
 const result = numbers.map((numbers) => {
-    return numbers * numbers * numbers + numbers
+    return numbers 
 });
 
 console.log(result);
